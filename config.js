@@ -95,7 +95,7 @@ global.nameown1= 'mustofa' //ganti
 global.nameown2 = 'mustofa' //ganti 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Tunggu Sebentar Kak...'
-global.lynk = '- jadi link gc luh
+global.lynk = '-'jadi link gc luh
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
